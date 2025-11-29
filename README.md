@@ -4,8 +4,9 @@
 
 to parse matches from a website you have to
 * 1. install required libraries: selenium, pandas, IPython
+* 1.1 download google chrome
 * 2. launch the block codes
     * 2.1 Imports
     * 2.2 Setting up options
-    * 2.3 Parse, show and save data
+    * 2.3 Parse, show and save data to the current folder
 
