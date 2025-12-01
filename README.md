@@ -3,7 +3,7 @@
 ## Usage
 * Use **jupyter notebook, google collab, etc.** to open the file *Parser.ipynb*
 * You need to have installed [google chrome](https://googlechromelabs.github.io/chrome-for-testing/) version 142.0 stable on your PC to use the app
-* Using [chromedriver 142.2](https://github.com/dreamshao/chromedriver)
+* Using [chromedriver 142.2](https://github.com/dreamshao/chromedriver) (included into the folder)
 
 ### **to parse matches from the flashcore website you have to**
 + 1. install required python libraries: selenium, pandas, IPython\
