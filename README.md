@@ -1,7 +1,7 @@
 # Parsing footbal matchi  python mat statistika urok 2
 
 ## Usage
-* Use ***jupyter notebook, google collab, etc.*** to open the file *Parser.ipynb*
+* Use **jupyter notebook, google collab, etc.** to open the file *Parser.ipynb*
 * You have to have installed google chrome version 142.0 stable on your PC to use the app
 
 ### **to parse matches from the flashcore website you have to**
